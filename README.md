@@ -2,6 +2,12 @@
 
 Aplicação de lista de tarefas desenvolvida com JavaScript moderno, sem frameworks.
 
+
+## 🌐 Acesse o projeto online
+
+[🔗 Clique aqui para ver funcionando](https://francisco-caio.github.io/todo-list-js/)
+
+
 ## 🚀 Tecnologias
 
 - **JavaScript ES6+** (Classes, Arrow Functions, Spread Operator, Async/Await)
